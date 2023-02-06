@@ -1,2 +1,11 @@
 # Calculadora_Bases
- Calculadora de bases numéricas, que permite dois tipos de operação: Conversão entre bases númericas e operação de Soma e Subtração entre bases distintas. Projeto idealizado e criado utilizando a linguagem Python.
+ 
+Python algorithm that implements a numeric base calculator, which allows two types of operation: 
+
+### 1st:
+
+Conversion between numeric bases
+
+### 2nd:
+
+Sum and subtraction operation between different bases. 
