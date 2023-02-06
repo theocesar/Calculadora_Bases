@@ -4,7 +4,7 @@ Python algorithm that implements a numeric base calculator, which allows two typ
 
 ### 1st:
 
-Conversion between numeric bases
+Conversion between numeric bases.
 
 ### 2nd:
 
